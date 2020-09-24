@@ -21,8 +21,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.joseocampo.org//"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/joseocampo/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>!
+<a href="https://www.joseocampo.org"><img alt="Website" src="https://img.shields.io/badge/Website-https://www.joseocampo.org-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/joseocampo/?locale=en_US"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jose%20Gabriel%20Ocampo-blue?style=flat-square&logo=linkedin"></a>!
 <a href="https://twitter.com/josegocampo"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjosegocampo"></a>
 <a href="mailto:joseor@hey.com"><img alt="Email" src="https://img.shields.io/badge/Email-joseor@hey.com-blue?style=flat-square&logo=gmail"></a>
 </p>
