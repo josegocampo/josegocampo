@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies, building apps and learning in public.
 - 🎓 &nbsp; Studyied Full Stack Web Development and Computer Science at Lambda School.
 - 💼 &nbsp; Previously a lawyer, I have worked on a legal tech startup and on a big law firm.
 - 🌱 &nbsp; Learning more about System Design, Component Architecture, TypeScript and Algorithms.
